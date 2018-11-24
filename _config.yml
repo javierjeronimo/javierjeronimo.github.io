@@ -7,7 +7,7 @@ email: git@javierjeronimo.es
 twitter_username: javier_jeronimo
 github_username:  javierjeronimo
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
