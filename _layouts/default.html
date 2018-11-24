@@ -117,13 +117,13 @@ layout: compress
             </ul>
           </div>
           <div class="search" id="js-search">
-            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <input type="text" placeholder="Escribe para buscar..." class="search__input form-control" id="js-search__input">
             <ul class="search__results" id="js-search__results"></ul>
           </div>
           <hr />
           <ul class="sidebar-nav">
-            <strong>Navigation</strong>
-            <li><a href="/">Home</a></li>
+            <strong>Navegación</strong>
+            <li><a href="/">Inicio</a></li>
             {% for i in site.urls %}
               <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
@@ -136,7 +136,7 @@ layout: compress
         <footer>
           &copy; {{ site.author }}
           {% if site.github %}
-            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll & agusmakmun.github.io.
+            - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by https://jekyllrb.com/ & https://agusmakmun.github.io.
           {% endif %}
         </footer>
       </div>
