@@ -1,13 +1,12 @@
 url: https://javierjeronimo.es
-name: Blog de Javier Jerónimo
+title: Blog de Javier Jerónimo
 description: >
   Blog de tecnología e ingeniería del
   software
-email: your-email@example.com
+email: git@javierjeronimo.es
 twitter_username: javier_jeronimo
 github_username:  javierjeronimo
 
-markdown: kramdown
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
