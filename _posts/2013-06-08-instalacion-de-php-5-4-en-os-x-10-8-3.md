@@ -3,13 +3,8 @@ id: 171
 title: Instalación de PHP 5.4 en OS X 10.8.3
 date: 2013-06-08T17:43:25+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=171
 permalink: /2013/06/08/instalacion-de-php-5-4-en-os-x-10-8-3/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Programación
 tags:
