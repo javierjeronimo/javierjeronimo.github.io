@@ -3,13 +3,8 @@ id: 164
 title: 'Entorno de desarrollo completo para Android (1): Eclipse'
 date: 2013-06-30T12:00:52+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=164
 permalink: /2013/06/30/entorno-de-desarrollo-completo-para-android-1-eclipse/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Programación
 tags:

@@ -3,7 +3,6 @@ id: 305
 title: 'Graylog &#8211; Arquitectura tolerante a fallos y escalable'
 date: 2015-03-23T20:11:32+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=305
 permalink: /2015/03/23/graylog-arquitectura-tolerante-a-fallos-y-escalable/
 image: /wp-content/uploads/2014/10/about_logo.png

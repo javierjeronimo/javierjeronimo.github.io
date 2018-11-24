@@ -3,7 +3,6 @@ id: 24
 title: Gestión de sistemas y FCAPS (1)
 date: 2013-05-31T14:37:02+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=24
 permalink: /2013/05/31/gestion-de-sistemas-y-fcaps-1/
 shareaholic_disable_share_buttons:

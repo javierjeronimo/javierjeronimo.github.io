@@ -3,13 +3,8 @@ id: 70
 title: Feature switching y los despliegues sólo para valientes
 date: 2012-10-31T21:37:05+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=70
 permalink: /2012/10/31/feature-switching-y-los-despliegues-solo-para-valientes/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Programación
 tags:

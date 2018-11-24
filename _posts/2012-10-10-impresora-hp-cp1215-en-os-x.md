@@ -3,13 +3,8 @@ id: 47
 title: Impresora HP CP1215 en OS X
 date: 2012-10-10T20:18:59+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=47
 permalink: /2012/10/10/impresora-hp-cp1215-en-os-x/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - OS X
 tags:

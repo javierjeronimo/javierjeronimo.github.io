@@ -3,7 +3,6 @@ id: 387
 title: Optimizando un sistema graylog con RabbitMQ
 date: 2016-02-14T11:50:03+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=387
 permalink: /2016/02/14/optimizando-un-sistema-graylog-con-rabbitmq/
 categories:

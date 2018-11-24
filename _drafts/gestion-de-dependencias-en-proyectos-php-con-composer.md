@@ -3,7 +3,6 @@ id: 167
 title: 'Gestión de dependencias en proyectos PHP con &#8220;composer&#8221;'
 date: 2013-06-07T18:23:12+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=167
 permalink: /2013/06/07/gestion-de-dependencias-en-proyectos-php-con-composer/
 shareaholic_disable_share_buttons:

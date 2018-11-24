@@ -3,7 +3,6 @@ id: 261
 title: 'Vagrant y máquinas virtuales antiguas: veewee'
 date: 2013-10-06T21:43:22+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=261
 permalink: /2013/10/06/vagrant-y-maquinas-virtuales-antiguas-veewee/
 categories:

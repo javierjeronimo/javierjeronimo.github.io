@@ -3,7 +3,6 @@ id: 412
 title: 'Sistema de gestión de API &#8211; KONG'
 date: 2016-03-19T11:08:11+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=412
 permalink: /2016/03/19/sistema-de-gestion-de-api-kong/
 image: /wp-content/uploads/2016/03/kong.png

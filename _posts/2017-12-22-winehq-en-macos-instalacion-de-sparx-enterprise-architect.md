@@ -3,7 +3,6 @@ id: 474
 title: 'WineHQ en macOS: instalación de Sparx Enterprise Architect'
 date: 2017-12-22T10:36:22+00:00
 author: javier
-layout: post
 guid: https://javierjeronimo.es/?p=474
 permalink: /2017/12/22/winehq-en-macos-instalacion-de-sparx-enterprise-architect/
 categories:

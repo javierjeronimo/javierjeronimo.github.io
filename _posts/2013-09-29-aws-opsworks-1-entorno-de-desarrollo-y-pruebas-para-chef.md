@@ -3,7 +3,6 @@ id: 243
 title: AWS OpsWorks (1) – Entorno de desarrollo y pruebas para Chef
 date: 2013-09-29T18:19:01+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=243
 permalink: /2013/09/29/aws-opsworks-1-entorno-de-desarrollo-y-pruebas-para-chef/
 categories:

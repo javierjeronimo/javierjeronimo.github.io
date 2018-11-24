@@ -3,13 +3,8 @@ id: 105
 title: 'Crear &#8220;App Bundle&#8221; OS X para una aplicación XUL'
 date: 2013-06-27T18:52:00+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=105
 permalink: /2013/06/27/crear-app-bundle-os-x-para-una-aplicacion-xul/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - OS X
   - Programación

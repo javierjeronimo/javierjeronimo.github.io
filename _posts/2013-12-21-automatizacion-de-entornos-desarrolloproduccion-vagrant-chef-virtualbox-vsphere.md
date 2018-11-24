@@ -3,7 +3,6 @@ id: 272
 title: 'Automatización de entornos desarrollo/producción: Vagrant + Chef + VirtualBox + vSphere'
 date: 2013-12-21T17:24:19+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=272
 permalink: /2013/12/21/automatizacion-de-entornos-desarrolloproduccion-vagrant-chef-virtualbox-vsphere/
 categories:

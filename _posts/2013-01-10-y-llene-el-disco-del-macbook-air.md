@@ -3,13 +3,8 @@ id: 125
 title: 'Y llené el disco del MacBook Air&#8230;'
 date: 2013-01-10T19:24:47+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=125
 permalink: /2013/01/10/y-llene-el-disco-del-macbook-air/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 image: /wp-content/uploads/2013/01/Captura-de-pantalla-2013-01-10-a-las-19.17.47.png
 categories:
   - OS X

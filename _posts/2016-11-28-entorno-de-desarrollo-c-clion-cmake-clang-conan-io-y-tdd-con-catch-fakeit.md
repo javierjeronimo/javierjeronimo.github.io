@@ -3,7 +3,6 @@ id: 429
 title: 'Entorno de desarrollo C++: CLion, CMake, Clang, Conan.io y TDD con Catch, FakeIt'
 date: 2016-11-28T11:55:46+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=429
 permalink: /2016/11/28/entorno-de-desarrollo-c-clion-cmake-clang-conan-io-y-tdd-con-catch-fakeit/
 categories:

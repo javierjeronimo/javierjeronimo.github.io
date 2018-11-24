@@ -3,7 +3,6 @@ id: 284
 title: 'Baches con Google Cloud Endpoints: redirecciones y dominios personalizados'
 date: 2014-05-20T23:20:16+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=284
 permalink: /2014/05/20/baches-con-google-cloud-endpoints-redirecciones-y-dominios-personalizados/
 categories:

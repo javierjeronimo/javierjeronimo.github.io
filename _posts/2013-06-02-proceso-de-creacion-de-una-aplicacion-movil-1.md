@@ -3,13 +3,8 @@ id: 157
 title: Proceso de creación de una aplicación móvil (1)
 date: 2013-06-02T11:00:07+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=157
 permalink: /2013/06/02/proceso-de-creacion-de-una-aplicacion-movil-1/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Programación
 tags:

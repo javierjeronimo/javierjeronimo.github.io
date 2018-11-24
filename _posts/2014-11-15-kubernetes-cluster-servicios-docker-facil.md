@@ -3,7 +3,6 @@ id: 323
 title: kubernetes = cluster servicios docker fácil
 date: 2014-11-15T22:57:53+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=323
 permalink: /2014/11/15/kubernetes-cluster-servicios-docker-facil/
 categories:

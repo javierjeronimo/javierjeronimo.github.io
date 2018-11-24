@@ -3,7 +3,6 @@ id: 365
 title: Push to deploy desde BitBucket
 date: 2015-03-22T12:28:41+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=365
 permalink: /2015/03/22/push-to-deploy-desde-bitbucket/
 categories:

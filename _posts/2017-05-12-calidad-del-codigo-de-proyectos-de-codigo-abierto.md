@@ -3,7 +3,6 @@ id: 443
 title: Calidad del código de proyectos de código abierto
 date: 2017-05-12T15:33:34+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=443
 permalink: /2017/05/12/calidad-del-codigo-de-proyectos-de-codigo-abierto/
 categories:

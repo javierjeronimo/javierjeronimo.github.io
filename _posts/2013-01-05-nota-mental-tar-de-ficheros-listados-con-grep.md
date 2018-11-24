@@ -3,13 +3,8 @@ id: 120
 title: 'Nota mental: &#8216;tar&#8217; de ficheros listados con &#8216;grep&#8217;'
 date: 2013-01-05T12:19:32+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=120
 permalink: /2013/01/05/nota-mental-tar-de-ficheros-listados-con-grep/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - OS X
   - UNIX

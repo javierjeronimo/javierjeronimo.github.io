@@ -3,7 +3,6 @@ id: 314
 title: Implementación Varnish paywall para revista digital con suscripción (WordPress)
 date: 2015-01-22T18:30:18+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=314
 permalink: /2015/01/22/implementacion-varnish-paywall-para-revista-digital-con-suscripcion-wordpress/
 categories:

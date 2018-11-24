@@ -2,16 +2,8 @@
 id: 14
 title: Estreno del blog
 date: 2012-08-26T12:05:28+00:00
-author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=14
 permalink: /2012/08/26/estreno-del-blog/
-simplecatch-sidebarlayout:
-  - ""
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Internet
 tags:

@@ -3,7 +3,6 @@ id: 477
 title: Instalación de minishift y Containers Development Kit (RedHat) en macOS
 date: 2017-12-27T10:40:26+00:00
 author: javier
-layout: post
 guid: https://javierjeronimo.es/?p=477
 permalink: /2017/12/27/instalacion-de-minishift-y-containers-development-kit-redhat-en-macos/
 categories:

@@ -3,13 +3,8 @@ id: 162
 title: 'Atlassian Jira &#8211; Creación de plugin (1): Integración continua'
 date: 2013-06-05T20:48:32+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=162
 permalink: /2013/06/05/atlassian-jira-creacion-de-plugin-1-integracion-continua/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 categories:
   - Programación
 tags:

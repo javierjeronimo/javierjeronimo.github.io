@@ -3,7 +3,6 @@ id: 169
 title: Gestión de dependencias en proyectos alojados en repositorios git
 date: 2013-06-07T18:47:13+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=169
 permalink: /2013/06/07/gestion-de-dependencias-en-proyectos-alojados-en-repositorios-git/
 shareaholic_disable_share_buttons:

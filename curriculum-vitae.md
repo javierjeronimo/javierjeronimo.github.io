@@ -1,10 +1,5 @@
 ---
-id: 9
 title: Currículum vítae
-date: 2012-08-26T11:58:09+00:00
-author: javier
-layout: page
-guid: http://javierjeronimo.es/?page_id=9
 permalink: /curriculum-vitae
 ---
 Actualmente desempeño las labores de _Arquitecto Líder en Seguridad Cloud_ en el **Área Global de Ciberseguridad de Banco Santander**. Mi anterior trayectoria en el área de la ciberseguridad incluye la [**Unidad de Ciberseguridad de Minsait**](https://www.minsait.com/es/what-we-do/protect) (Indra) donde llevaba a cabo labores similares como _Arquitecto de Software de Seguridad_.

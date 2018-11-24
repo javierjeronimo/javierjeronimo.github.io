@@ -3,13 +3,8 @@ id: 159
 title: 'Primeros pasos con Amazon Web Services (1): OpsWorks'
 date: 2013-06-03T22:01:36+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=159
 permalink: /2013/06/03/primeros-pasos-con-amazon-web-services-1-opsworks/
-shareaholic_disable_share_buttons:
-  - "0"
-shareaholic_disable_open_graph_tags:
-  - "0"
 image: /wp-content/uploads/2013/06/Captura-de-pantalla-2013-06-03-a-las-22.38.31.png
 categories:
   - Cloud

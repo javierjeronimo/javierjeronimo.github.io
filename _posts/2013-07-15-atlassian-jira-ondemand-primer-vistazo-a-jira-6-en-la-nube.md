@@ -3,7 +3,6 @@ id: 214
 title: 'Atlassian Jira OnDemand &#8211; Primer vistazo a Jira 6 &#8220;en la nube&#8221;'
 date: 2013-07-15T21:11:53+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=214
 permalink: /2013/07/15/atlassian-jira-ondemand-primer-vistazo-a-jira-6-en-la-nube/
 categories:

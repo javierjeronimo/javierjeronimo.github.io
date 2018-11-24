@@ -3,7 +3,6 @@ id: 418
 title: Mi primera subida a producción de 6 horas de duración
 date: 2016-05-13T18:35:29+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=418
 permalink: /2016/05/13/mi-primera-subida-a-produccion-de-6-horas-de-duracion/
 categories:

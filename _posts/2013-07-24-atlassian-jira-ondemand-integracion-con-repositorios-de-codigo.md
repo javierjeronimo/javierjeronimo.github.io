@@ -3,7 +3,6 @@ id: 231
 title: Atlassian Jira OnDemand – Integración con repositorios de código
 date: 2013-07-24T21:52:52+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=231
 permalink: /2013/07/24/atlassian-jira-ondemand-integracion-con-repositorios-de-codigo/
 categories:

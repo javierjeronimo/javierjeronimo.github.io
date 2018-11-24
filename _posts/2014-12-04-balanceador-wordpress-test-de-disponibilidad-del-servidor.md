@@ -3,7 +3,6 @@ id: 336
 title: 'Balanceador + WordPress &#8211; test de disponibilidad del servidor'
 date: 2014-12-04T15:20:53+00:00
 author: javier
-layout: post
 guid: http://javierjeronimo.es/?p=336
 permalink: /2014/12/04/balanceador-wordpress-test-de-disponibilidad-del-servidor/
 categories:
