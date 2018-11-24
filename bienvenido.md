@@ -10,9 +10,7 @@ En este blog intento dar a conocer mis experiencias como Ingeniero de Software e
 Si quieres comentarme cualquier tema relacionado, o proponerme uno para que lo intente tratar en el blog, o simplemente quieres contactar conmigo, puedes hacerlo de las siguientes formas:
 
 > Javier Jerónimo Suárez
-  
 > Arquitecto Software &#8211; Ciberseguridad &#8211; Cloud
 > 
 > linkedin: [linkedin.com/in/javierjeronimo](http://www.linkedin.com/in/javierjeronimo "Javier Jerónimo en Linkedin")
-  
 > twitter: [@javier_jeronimo](http://twitter.com/javier_jeronimo "Javier Jerónimo enTwitter")
