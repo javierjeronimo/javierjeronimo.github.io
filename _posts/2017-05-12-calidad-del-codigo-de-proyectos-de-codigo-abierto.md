@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=443
 permalink: /2017/05/12/calidad-del-codigo-de-proyectos-de-codigo-abierto/
 categories:
-  - Procesos software
+  - secdevops
 tags:
   - automatización
   - calidad

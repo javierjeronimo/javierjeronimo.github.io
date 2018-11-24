@@ -6,7 +6,7 @@ author: javier
 guid: https://javierjeronimo.es/?p=474
 permalink: /2017/12/22/winehq-en-macos-instalacion-de-sparx-enterprise-architect/
 categories:
-  - OS X
+  - macos
 tags:
   - EA
   - os x

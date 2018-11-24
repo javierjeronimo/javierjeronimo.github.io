@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=171
 permalink: /2013/06/08/instalacion-de-php-5-4-en-os-x-10-8-3/
 categories:
-  - Programación
+  - programacion
 tags:
   - homebrew
   - instalar

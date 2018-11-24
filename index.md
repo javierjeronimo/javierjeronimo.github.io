@@ -1,6 +1,7 @@
 ---
-title: Inicio
-permalink: /
+title: Bienvenido
+layout: page
+permalink: /bienvenido
 ---
 Bienvenido, me presento. Soy Javier Jerónimo, Arquitecto Software orientado a _cloud_ adentrándome en el área de la ciberseguridad, anteriormente CTO de Genexies Mobile, con conocimientos y experiencia en la mochila sobre varios lenguajes y entornos, ahora centrado en sistemas donde la seguridad es crítica.
 

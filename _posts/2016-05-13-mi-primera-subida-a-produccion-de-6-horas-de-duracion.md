@@ -6,8 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=418
 permalink: /2016/05/13/mi-primera-subida-a-produccion-de-6-horas-de-duracion/
 categories:
-  - IT
-  - Procesos software
+  - secdevops
 tags:
   - automatización
   - despliegues

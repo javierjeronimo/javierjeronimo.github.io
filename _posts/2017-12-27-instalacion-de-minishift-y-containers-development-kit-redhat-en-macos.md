@@ -6,7 +6,7 @@ author: javier
 guid: https://javierjeronimo.es/?p=477
 permalink: /2017/12/27/instalacion-de-minishift-y-containers-development-kit-redhat-en-macos/
 categories:
-  - OS X
+  - macos
 tags:
   - cdk
   - docker

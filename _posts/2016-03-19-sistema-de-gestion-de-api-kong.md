@@ -7,7 +7,7 @@ guid: http://javierjeronimo.es/?p=412
 permalink: /2016/03/19/sistema-de-gestion-de-api-kong/
 image: /wp-content/uploads/2016/03/kong.png
 categories:
-  - Arquitectura
+  - arquitectura
 tags:
   - api
   - cassandra

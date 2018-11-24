@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=272
 permalink: /2013/12/21/automatizacion-de-entornos-desarrolloproduccion-vagrant-chef-virtualbox-vsphere/
 categories:
-  - IT
+  - secdevops
 tags:
   - automatización
   - berkshelf

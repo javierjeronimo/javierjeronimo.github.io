@@ -6,8 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=120
 permalink: /2013/01/05/nota-mental-tar-de-ficheros-listados-con-grep/
 categories:
-  - OS X
-  - UNIX
+  - macos
 tags:
   - comandos
   - comprimir

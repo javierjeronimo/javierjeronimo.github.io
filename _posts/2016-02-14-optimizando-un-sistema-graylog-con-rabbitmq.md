@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=387
 permalink: /2016/02/14/optimizando-un-sistema-graylog-con-rabbitmq/
 categories:
-  - Uncategorized
+  - arquitectura
 ---
 En el artículo **[Graylog – Arquitectura tolerante a fallos y escalable](http://javierjeronimo.es/wp-admin/post.php?post=305&action=edit "Editar “Graylog – Arquitectura tolerante a fallos y escalable”"){.row-title.anti-aede-checked}** explicaba la arquitectura que usamos en [Genexies Mobile](http://www.genexies.com "Genexies Mobile"){.anti-aede-checked} para el sistema de gestión de logs de nuestros servicios. No es sólo un _sumidero_ centralizado de logs, si no que estamos definiendo un sistema para controlar la calidad de nuestros servicios directamente desde el comportamiento del código fuente.
 

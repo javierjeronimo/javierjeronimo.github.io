@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=164
 permalink: /2013/06/30/entorno-de-desarrollo-completo-para-android-1-eclipse/
 categories:
-  - Programación
+  - programacion
 tags:
   - android
   - eclipse

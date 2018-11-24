@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=243
 permalink: /2013/09/29/aws-opsworks-1-entorno-de-desarrollo-y-pruebas-para-chef/
 categories:
-  - Programación
+  - programacion
 tags:
   - aws
   - chef

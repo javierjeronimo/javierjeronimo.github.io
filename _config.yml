@@ -1,15 +1,52 @@
-url: https://javierjeronimo.es
 title: Blog de Javier Jerónimo
 description: >
-  Blog de tecnología e ingeniería del
-  software
-email: git@javierjeronimo.es
-twitter_username: javier_jeronimo
-github_username:  javierjeronimo
+ Blog de tecnología e ingeniería del
+ software
+author: Javier Jerónimo
+github: https://github.com/javierjeronimo
+# about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
+# disqus_shortname: stackproblems
+avatar_url: /static/img/avatar.jpg
 
+enableTags: true
+tagarray: []
+
+social:
+    # - icon: fa-facebook
+    #   link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/javier_jeronimo"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/javierjeronimo"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    - icon: fa-github
+      link: "https://github.com/javierjeronimo"
+
+share:
+  twitter_username: javier_jeronimo
+
+urls:
+    - text: Bienvenido
+      url: /bienvenido
+    - text: Curriculum Vitae
+      url: /curriculum-vitae
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://javierjeronimo.es"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
 
-theme: jekyll-theme-architect
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

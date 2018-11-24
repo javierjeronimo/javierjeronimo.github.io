@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=429
 permalink: /2016/11/28/entorno-de-desarrollo-c-clion-cmake-clang-conan-io-y-tdd-con-catch-fakeit/
 categories:
-  - Programación
+  - programacion
 tags:
   - c++
   - catch

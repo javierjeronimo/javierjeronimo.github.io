@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=231
 permalink: /2013/07/24/atlassian-jira-ondemand-integracion-con-repositorios-de-codigo/
 categories:
-  - Cloud
+  - cloud
 tags:
   - atlassian
   - bitbucket

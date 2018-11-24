@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=314
 permalink: /2015/01/22/implementacion-varnish-paywall-para-revista-digital-con-suscripcion-wordpress/
 categories:
-  - Arquitectura
+  - arquitectura
 tags:
   - api
   - arquitectura

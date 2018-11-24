@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=214
 permalink: /2013/07/15/atlassian-jira-ondemand-primer-vistazo-a-jira-6-en-la-nube/
 categories:
-  - Cloud
+  - cloud
 tags:
   - atlassian
   - cloud
