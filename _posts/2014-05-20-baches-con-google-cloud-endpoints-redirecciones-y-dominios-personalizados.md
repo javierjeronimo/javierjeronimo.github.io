@@ -6,8 +6,8 @@ author: javier
 guid: http://javierjeronimo.es/?p=284
 permalink: /2014/05/20/baches-con-google-cloud-endpoints-redirecciones-y-dominios-personalizados/
 categories:
-  - Cloud
-  - Programación
+  - cloud
+  - programacion
 tags:
   - app engine
   - cloud

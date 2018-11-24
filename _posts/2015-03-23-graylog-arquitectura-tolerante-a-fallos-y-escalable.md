@@ -7,7 +7,7 @@ guid: http://javierjeronimo.es/?p=305
 permalink: /2015/03/23/graylog-arquitectura-tolerante-a-fallos-y-escalable/
 image: /wp-content/uploads/2014/10/about_logo.png
 categories:
-  - Arquitectura
+  - arquitectura
 tags:
   - arquitectura
   - elastic

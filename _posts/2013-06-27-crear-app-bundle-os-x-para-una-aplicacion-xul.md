@@ -6,8 +6,8 @@ author: javier
 guid: http://javierjeronimo.es/?p=105
 permalink: /2013/06/27/crear-app-bundle-os-x-para-una-aplicacion-xul/
 categories:
-  - OS X
-  - Programación
+  - macos
+  - programacion
 tags:
   - continua
   - integración

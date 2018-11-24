@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=365
 permalink: /2015/03/22/push-to-deploy-desde-bitbucket/
 categories:
-  - Procesos software
+  - secdevops
 tags:
   - atlassian
   - bitbucket

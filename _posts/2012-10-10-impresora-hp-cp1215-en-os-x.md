@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=47
 permalink: /2012/10/10/impresora-hp-cp1215-en-os-x/
 categories:
-  - OS X
+  - macos
 tags:
   - cp1215
   - drivers

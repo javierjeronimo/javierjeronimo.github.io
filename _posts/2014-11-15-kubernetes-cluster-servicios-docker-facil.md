@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=323
 permalink: /2014/11/15/kubernetes-cluster-servicios-docker-facil/
 categories:
-  - Cloud
+  - cloud
 tags:
   - cloud
   - contenedor

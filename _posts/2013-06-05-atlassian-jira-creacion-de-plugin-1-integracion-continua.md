@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=162
 permalink: /2013/06/05/atlassian-jira-creacion-de-plugin-1-integracion-continua/
 categories:
-  - Programación
+  - programacion
 tags:
   - atlassian
   - continua

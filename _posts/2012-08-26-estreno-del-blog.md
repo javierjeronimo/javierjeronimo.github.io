@@ -5,7 +5,7 @@ date: 2012-08-26T12:05:28+00:00
 guid: http://javierjeronimo.es/?p=14
 permalink: /2012/08/26/estreno-del-blog/
 categories:
-  - Internet
+  - internet
 tags:
   - blog
   - internet

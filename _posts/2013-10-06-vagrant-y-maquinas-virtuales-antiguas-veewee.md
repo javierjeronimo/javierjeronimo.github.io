@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=261
 permalink: /2013/10/06/vagrant-y-maquinas-virtuales-antiguas-veewee/
 categories:
-  - Programación
+  - programacion
 tags:
   - hardy
   - ubuntu

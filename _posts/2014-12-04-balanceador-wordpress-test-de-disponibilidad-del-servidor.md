@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=336
 permalink: /2014/12/04/balanceador-wordpress-test-de-disponibilidad-del-servidor/
 categories:
-  - Programación
+  - programacion
 tags:
   - keepalive
   - php

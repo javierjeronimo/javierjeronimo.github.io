@@ -7,7 +7,7 @@ guid: http://javierjeronimo.es/?p=159
 permalink: /2013/06/03/primeros-pasos-con-amazon-web-services-1-opsworks/
 image: /wp-content/uploads/2013/06/Captura-de-pantalla-2013-06-03-a-las-22.38.31.png
 categories:
-  - Cloud
+  - cloud
 tags:
   - aws
   - cloud

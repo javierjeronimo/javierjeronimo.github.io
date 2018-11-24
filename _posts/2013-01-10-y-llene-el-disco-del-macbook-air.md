@@ -7,7 +7,7 @@ guid: http://javierjeronimo.es/?p=125
 permalink: /2013/01/10/y-llene-el-disco-del-macbook-air/
 image: /wp-content/uploads/2013/01/Captura-de-pantalla-2013-01-10-a-las-19.17.47.png
 categories:
-  - OS X
+  - macos
 tags:
   - compras
   - error

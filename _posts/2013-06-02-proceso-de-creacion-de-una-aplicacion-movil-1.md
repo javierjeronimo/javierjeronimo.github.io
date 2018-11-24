@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=157
 permalink: /2013/06/02/proceso-de-creacion-de-una-aplicacion-movil-1/
 categories:
-  - Programación
+  - programacion
 tags:
   - aplicación
   - diseño

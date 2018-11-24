@@ -6,7 +6,7 @@ author: javier
 guid: http://javierjeronimo.es/?p=70
 permalink: /2012/10/31/feature-switching-y-los-despliegues-solo-para-valientes/
 categories:
-  - Programación
+  - programacion
 tags:
   - cambios
   - despliegues
