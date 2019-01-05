@@ -1,5 +1,5 @@
 ---
-title: 'Secure Cloud Orchestration'
+title: 'Notes on article: Towards Secure Cloud Orchestration for Multi-Cloud Deployments'
 categories:
   - arquitectura
 ---
