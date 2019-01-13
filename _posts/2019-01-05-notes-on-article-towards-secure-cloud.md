@@ -28,7 +28,7 @@ High Level Attacks
  - VM Substitution Attack: start vulnerable VMs
  - Host Substitution Attack: bypass VM placement policies.
  - Storage Host Substitution Attack: bypass storage placement policies.
- - Resource Parasite Attack: bypass infrastructure configuration policies, e.g. for running proccesses.
+ - Resource Parasite Attack: bypass infrastructure configuration policies, e.g. for running processes.
  - Placement Bias Attack: bypass placement policies in federated environments.
 
 Orchestration Security Enablers
