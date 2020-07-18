@@ -13,11 +13,11 @@ tags:
 
 ## Tabla de Contenido
 
-* [Introducción a Azure Policy](#introduccion-a-azure-policy)
-* [Algebra de Boole](#algebra-de-boole)
-* [Azure Policy - Mejor Práctica de Diseño: simplifica la lógica de la definición](#azure-policy-mejor-practica-de-diseno-simplifica-la-logica-de-la-definicion)
-* [Estructura básica de una Azure Policy](#estructura-basica-de-una-azure-policy)
-* [Conclusión](#conclusion)
+* [Introducción a Azure Policy](#introducción-a-azure-policy)
+* [Algebra de Boole](#álgebra-de-boole)
+* [Azure Policy - Mejor Práctica de Diseño: simplifica la lógica de la definición](#azure-policy---mejor-práctica-de-diseño-simplifica-la-lógica-de-la-definición)
+* [Estructura básica de una Azure Policy](#estructura-básica-de-una-azure-policy)
+* [Conclusión](#conclusión)
 
 ## Introducción a Azure Policy
 
