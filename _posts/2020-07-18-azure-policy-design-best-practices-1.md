@@ -1,8 +1,8 @@
 ---
 title: Mejores Prácticas de Diseño Azure Policy - Estructura lógica simple
+date: 2020-07-18 16:00:00 -0000
 author: javier
-categories:
-  - secdevops
+categories: SecDevOps Cloud Programación
 tags:
   - azure
   - policy
