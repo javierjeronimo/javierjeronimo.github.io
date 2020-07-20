@@ -18,7 +18,7 @@ tags:
 
 * [Convención: estructura lógica simple](#convención-estructura-lógica-simple)
 * [Comprobando varios atributos de un recurso](#comprobando-varios-atributos-de-un-recurso)
-* [Antes de seguir: operadores prefijos / operadores infijos y sintaxis en Azure Policy](#antes-de-seguir-operadores-prefijos-operadores-infijos-y-sintaxis-en-azure-policy)
+* [Antes de seguir: operadores prefijos / operadores infijos y sintaxis en Azure Policy](#antes-de-seguir-operadores-prefijos--operadores-infijos-y-sintaxis-en-azure-policy)
 * [Dónde quiero llegar](#dónde-quiero-llegar)
 * [Azure Policy - Mejor Práctica de Diseño: Separación de Conceptos (SoC)](#azure-policy---mejor-práctica-de-diseño-separación-de-conceptos-soc)
 * [Conclusión](#conclusión)
