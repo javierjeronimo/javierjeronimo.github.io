@@ -9,7 +9,20 @@ tags:
   - shift-left
 ---
 
-> Esta es una serie de artículos con mi experiencia después de un año en un equipo de diseño e implementación de Azure Policy en el área de Ciber Seguridad Global de Grupo Santander. En estos artículos intentaré resumir las lecciones que hemos aprendido al diseñar, implementar y mantener Azure Policy.
+> Esta es una serie de artículos con mi experiencia después de un año en un equipo de diseño e implementación de Azure Policy en el área de Ciber Seguridad Global de Grupo Santander. En estos artículos intentaré resumir las lecciones que hemos aprendido al diseñar, implementar y mantener Azure Policy:
+>
+> * [Mejores Prácticas de Diseño Azure Policy - Estructura lógica simple](/2020/07/18/azure-policy-design-best-practices-1/)
+> * [Mejores Prácticas de Diseño Azure Policy - Separación de Conceptos (SoC)](/2020/07/20/azure-policy-design-best-practices-2/)
+
+## Tabla de Contenido
+
+* [Convención: estructura lógica simple](#convención-estructura-lógica-simple)
+* [Comprobando varios atributos de un recurso](#comprobando-varios-atributos-de-un-recurso)
+* [Antes de seguir: operadores prefijos / operadores infijos y sintaxis en Azure Policy](#antes-de-seguir-operadores-prefijos-operadores-infijos-y-sintaxis-en-azure-policy)
+* [Dónde quiero llegar](#dónde-quiero-llegar)
+* [Azure Policy - Mejor Práctica de Diseño: Separación de Conceptos (SoC)](#azure-policy---mejor-práctica-de-diseño-separación-de-conceptos-soc)
+* [Conclusión](#conclusión)
+  * [Mejora para sintaxis de Azure Policy](#mejora-para-sintaxis-de-azure-policy)
 
 En el primer artículo presenté la que desde mi punto de vista es la [primera mejor práctica al diseñar definiciones de Azure Policy](/2020/07/18/azure-policy-design-best-practices-1/): definir una estructura simple y crear una convención de diseño para implementar todas las definiciones. Vamos a retomar en el punto donde lo dejamos antes de llegar a la siguiente mejor práctica que recomiendo.
 
@@ -167,7 +180,7 @@ La segunda mejor práctica es sencilla pero algunas veces los programadores tend
 
 No pasa nada por crear más definiciones, cada una tendrá una responsabilidad bien definida, cada una será más legible.
 
-## Mejora para sintaxis de Azure Policy
+### Mejora para sintaxis de Azure Policy
 
 En ingeniería del software hay una norma que consiste en no duplicar, en encapsular y reutilizar.
 
