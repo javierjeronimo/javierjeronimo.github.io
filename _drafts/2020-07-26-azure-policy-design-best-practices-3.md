@@ -18,7 +18,8 @@ tags:
 ## Tabla de Contenido
 
 * [Control de versiones](#control-de-versiones)
-* 
+* [Objetivo del control de versiones](#objetivo-del-control-de-versiones)
+* [Versionado del conjunto de Azure Policy](#)
 * [Conclusión](#conclusión)
 
 En el primer artículo presenté la que desde mi punto de vista es la [primera mejor práctica al diseñar definiciones de Azure Policy](/2020/07/18/azure-policy-design-best-practices-1/): definir una estructura simple y crear una convención de diseño para implementar todas las definiciones. En el segundo di continuidad a ese principio con la separación de conceptos, teniendo con resultado de ambos cada política separada en su propia definición, sin mezclar conceptos y con una estructura igual en todas ellas para facilitar el mantenimiento.
