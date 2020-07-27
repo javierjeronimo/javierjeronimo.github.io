@@ -1,5 +1,5 @@
 ---
-title: Mejores Prácticas de Diseño Azure Policy - Control de versiones y despliegue
+title: Mejores Prácticas de Diseño Azure Policy - Control de versiones
 date: 2020-07-27 17:00:00 -0000
 author: javier
 categories: SecDevOps Cloud Programación
@@ -13,7 +13,7 @@ tags:
 >
 > * [Mejores Prácticas de Diseño Azure Policy - Estructura lógica simple](/2020/07/18/azure-policy-design-best-practices-1/)
 > * [Mejores Prácticas de Diseño Azure Policy - Separación de Conceptos (SoC)](/2020/07/20/azure-policy-design-best-practices-2/)
-> * [Mejores Prácticas de Diseño Azure Policy - Control de versiones y despliegue](/2020/07/26/azure-policy-design-best-practices-3/)
+> * [Mejores Prácticas de Diseño Azure Policy - Control de versiones](/2020/07/26/azure-policy-design-best-practices-3/)
 
 ## Tabla de Contenido
 
@@ -101,4 +101,8 @@ Básicamente tenemos dos opciones:
 
 La recomendación es usar el primero, es decir, añadir un sufijo con el número de versión, tanto a los nombres de las definciones de Azure Policy como a las iniciativas que las agrupan.
 
+## Conclusión
 
+Las Azure Policy son un componente software, sí implementado en un lenguaje JSON con expresiones lógicas, pero un componente software al fin y al cabo que define el comportamiento del Azure Resource Manager, componente importante en Azure. Por tanto, usar un sistema de control de versiones (ej: git) y versionar tanto las definiciones de Azure Policy como sus agrupaciones lógicas (iniciativas) es fundamental.
+
+En el siguiente artículo trataré cómo gestionar el crecimiento descontrolado de definiciones de Azure Policy, dado que el número de productos en Azure es gigante y nuestras normas, que derivan en Azure Policy, serán complejas: cómo gestionar la trazabilidad entre las definiciones de Azure Policy que tenemos con los productos y las normas que cubren.
