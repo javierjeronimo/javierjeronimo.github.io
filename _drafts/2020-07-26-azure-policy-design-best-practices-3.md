@@ -19,7 +19,7 @@ tags:
 
 * [Control de versiones](#control-de-versiones)
 * [Objetivo del control de versiones](#objetivo-del-control-de-versiones)
-* [Versionado del conjunto de Azure Policy](#)
+* [Versionado del conjunto de Azure Policy](#versionado-del-conjunto-de-azure-policy)
 * [Conclusión](#conclusión)
 
 En el primer artículo presenté la que desde mi punto de vista es la [primera mejor práctica al diseñar definiciones de Azure Policy](/2020/07/18/azure-policy-design-best-practices-1/): definir una estructura simple y crear una convención de diseño para implementar todas las definiciones. En el segundo di continuidad a ese principio con la separación de conceptos, teniendo con resultado de ambos cada política separada en su propia definición, sin mezclar conceptos y con una estructura igual en todas ellas para facilitar el mantenimiento.
@@ -57,3 +57,16 @@ Una ventaja de usar combinar tipos de versionado es que se pueden desarrollar la
 
 ## Versionado del conjunto de Azure Policy
 
+Para el versioneado de un conjunto de definiciones de Azure Policy se pueden usar las *iniciativas*, que entre sus usos también se pueden usar para asignar políticas en conjunto a un alcance determinado.
+
+Una iniciativa está relacionada con definiciones de Azure Policy, y por tanto, podemos usar la iniciativa a modo de versionado, por ejemplo `mi-iniciativa-v1.0.0` podría ser una iniciativa que incluya `mi-política-1` en su versión 1.0.0 y `mi-política-2` en su versión 1.0.1. Con estos dos niveles de control de versiones, podríamos mejorar `mi-política-2` con un cambio menor (una mejora, un añadido) y crear una nueva versión `1.1.0` con lo que tendríamos control de las versiones de dicha definición de Azure Policy, pero al mismo tiempo podríamos hacer que `mi-iniciativa-v1.0.0` no cambiara y crear una nueva `mi-iniciativa-v1.1.0` que incluyera la nueva versión de la política.
+
+Si no gestionamos versiones en ambos niveles, en la práctica estamos haciendo que el conjunto de definiciones de Azure Policy agrupadas en una iniciativa se convierta en un `LATEST`, es decir, una versión perpetua que siempre contiene lo último. Esto, como hemos dicho, genera una incertidumbre que no siempre se podrá aceptar.
+
+## Azure Policy - Mejor Práctica de Diseño: Versionado de definiciones e iniciativas de Azure Policy
+
+Llegamos pues al resumen: es obligatorio usar control de versiones en el proceso de gestión de Azure Policy (el código), más que recomendable versionar cada definición de Azure Policy de forma individual y recomendable versionar el conjunto de Azure Policy mediante iniciativas.
+
+Veamos ahora cómo hacerlo...
+
+###
