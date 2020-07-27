@@ -1,6 +1,6 @@
 ---
 title: Mejores Prácticas de Diseño Azure Policy - Control de versiones y despliegue
-date: 2020-07-26 22:00:00 -0000
+date: 2020-07-27 17:00:00 -0000
 author: javier
 categories: SecDevOps Cloud Programación
 tags:
@@ -20,6 +20,7 @@ tags:
 * [Control de versiones](#control-de-versiones)
 * [Objetivo del control de versiones](#objetivo-del-control-de-versiones)
 * [Versionado del conjunto de Azure Policy](#versionado-del-conjunto-de-azure-policy)
+* [Azure Policy - Mejor Práctica de Diseño: Versionado de definiciones e iniciativas de Azure Policy](#azure-policy---mejor-práctica-de-diseño-versionado-de-definiciones-e-iniciativas-de-azure-policy)
 * [Conclusión](#conclusión)
 
 En el primer artículo presenté la que desde mi punto de vista es la [primera mejor práctica al diseñar definiciones de Azure Policy](/2020/07/18/azure-policy-design-best-practices-1/): definir una estructura simple y crear una convención de diseño para implementar todas las definiciones. En el segundo di continuidad a ese principio con la separación de conceptos, teniendo con resultado de ambos cada política separada en su propia definición, sin mezclar conceptos y con una estructura igual en todas ellas para facilitar el mantenimiento.
@@ -63,10 +64,41 @@ Una iniciativa está relacionada con definiciones de Azure Policy, y por tanto, 
 
 Si no gestionamos versiones en ambos niveles, en la práctica estamos haciendo que el conjunto de definiciones de Azure Policy agrupadas en una iniciativa se convierta en un `LATEST`, es decir, una versión perpetua que siempre contiene lo último. Esto, como hemos dicho, genera una incertidumbre que no siempre se podrá aceptar.
 
+### Ventaja
+
+Azure Security Center permite ver en una pestaña de cumplimiento regulatorio el nivel de cumplimiento contra estándares reconocidos. Podemos hacer que una iniciativa que agrupe nuestras propias definiciones de Azure Policy sea uno de esos estándares. De esta forma, estaremos añadiendo una interfaz sencilla, centralizada en Azure Security Center, sobre el nivel de cumplimiento sobre nuestro conjunto de Azure Policy.
+
+Si decidimos darle este uso a las iniciativas, entonces necesitamos versionarlas probablemente, por aquello de dar certidumbre a quien las usa como métrica. Podríamos en ese caso publicar nuestro estándar versionado, y de hecho es lo que hace Azure:
+
+![Azure Security Center - Regulatory Compliance](/static/img/security_center_regulatory_compliance_versions.png "Azure Security Center - Regulatory Compliance")
+
 ## Azure Policy - Mejor Práctica de Diseño: Versionado de definiciones e iniciativas de Azure Policy
 
 Llegamos pues al resumen: es obligatorio usar control de versiones en el proceso de gestión de Azure Policy (el código), más que recomendable versionar cada definición de Azure Policy de forma individual y recomendable versionar el conjunto de Azure Policy mediante iniciativas.
 
+Y mi consejo es no reinventar la rueda y establecer un lenguaje que todos entendamos: **semantic versioning**: https://semver.org/
+
 Veamos ahora cómo hacerlo...
 
-###
+### Implementando versionado de Azure Policy
+
+Básicamente tenemos dos opciones:
+
+* Añadir el número de versión como sufijo al nombre del fichero. Esto es un clásico y casi siempre es la mejor opción, porque además en este caso el nombre se usa como identificador de la Azure Policy, con lo que si queremos apuntar a distintas versiones de la misma definición va a ser la única forma de hacerlo.
+
+  De esta forma podríamos tener dos Azure Policy desplegadas:
+  
+  * `mi-política-1_v1.0.0`
+  * `mi-política-1_v1.1.0`
+  
+  En realidad son la misma política, pero en distintas versiones. Si ahora tenemos una iniciativa que por ejemplo está *congelada* porque se usa en la organización para medir el nivel de seguridad en Azure, y se ha decidido que sólo se hacen cambios en ella cada semestre previo comité, pues podemos mantener la iniciativa apuntando a la vesión 1.0.0 de la política, aunque podamos publicar una nueva versión con la corrección y darle otro uso (ej: herramienta para los equipos de desarrollo para que sepan el grado de cumplimiento que tendrán en producción recursos que están en desarrollo).
+  
+* Añadir un metadato a la definición al desplegarla en el tenant de AzureAD.
+
+  Es más limpia, pero dado que la URL que referencia a una definición de Azure Policy desplegada no incluye este campo, no servirá para referenciarla. Son simplemente metadatos muy útiles si queremos referenciar desde ellos conceptos como el commit del repo git desde el que se desplegó, la versión, etc.
+  
+> Posible mejora para Azure Policy: que la versión sea un atributo con entidad en las definiciones y además se pueda referenciar en la URL de forma opcional, por ejemplo: `/providers/Microsoft.Management/managementgroups/mi-management-group-1/providers/Microsoft.Authorization/policyDefinitions/mi-politica-1#v1.0.0`
+
+La recomendación es usar el primero, es decir, añadir un sufijo con el número de versión, tanto a los nombres de las definciones de Azure Policy como a las iniciativas que las agrupan.
+
+
