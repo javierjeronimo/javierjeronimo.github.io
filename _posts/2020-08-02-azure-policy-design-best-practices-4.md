@@ -42,7 +42,7 @@ Sea lo que sea, algún objetivo tendremos, y ese objetivo define un alcance en d
 Estas dos dimensiones definen la cantidad de trabajo que tenemos que hacer. Si las representamos en una tabla podemos ir rellenando las combinaciones para las que hemos creado una definición de Azure Policy:
 
 | Productos       | Norma 1 | Norma 2 | Norma 3 | ... | Norma N |
-|-----------------|---------|---------|---------|-----|---------|
+|-----------------|:-------:|:-------:|:-------:|:---:|:-------:|
 | Azure Key Vault |         |    X    |         |     |         |
 | Storage Account |    X    |    X    |    X    |     |    X    |
 | ...             |         |         |         |     |         |
@@ -59,7 +59,7 @@ Retomamos la buena práctica de la separación de conceptos y la aplicamos a la 
 Vamos a suponer un alcance muy reducido a modo de ejemplo:
 
 | Productos       | Norma 1 | Norma 2 |
-|-----------------|---------|---------|
+|-----------------|:-------:|:-------:|
 | Azure Key Vault |         |         |
 | Storage Account |         |         |
 
@@ -76,7 +76,7 @@ Y acabo de introducir en el ejemplo lo que quería describir en este apartado...
 Si cada celda de la tabla corresponde con una norma y un producto Azure, si usáramos identificadores, el ejemplo anterior quedaría así:
 
 | Productos | N1     | N2     |
-|-----------|--------|--------|
+|-----------|:------:|:------:|
 | AKV       | N1-AKV | N2-AKV |
 | STA       | N1-STA | N2-STA |
 
