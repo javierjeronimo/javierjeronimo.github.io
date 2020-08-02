@@ -14,6 +14,7 @@ tags:
 > * [Mejores Prácticas de Diseño Azure Policy - Estructura lógica simple](/2020/07/18/azure-policy-design-best-practices-1/)
 > * [Mejores Prácticas de Diseño Azure Policy - Separación de Conceptos (SoC)](/2020/07/20/azure-policy-design-best-practices-2/)
 > * [Mejores Prácticas de Diseño Azure Policy - Control de versiones](/2020/07/26/azure-policy-design-best-practices-3/)
+> * [Mejores Prácticas de Diseño Azure Policy - Identificadores y trazabilidad](/2020/08/02/azure-policy-design-best-practices-4/)
 
 ## Tabla de Contenido
 
