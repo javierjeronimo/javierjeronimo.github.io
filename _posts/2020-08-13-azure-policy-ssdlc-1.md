@@ -22,7 +22,7 @@ tags:
 
 * [Despliegue](#despliegue)
 * [Revisión de convenciones](#revisión-de-convenciones)
-* [Azure Policy - Mejor Práctica: Automatizar la revisión](#azure-policy---automatizar-la-revisión)
+* [Azure Policy - Mejor Práctica: Automatizar la revisión](azure-policy---mejor-práctica-automatizar-la-revisión)
 * [Conclusión](#conclusión)
 
 Los artículos anteriores de esta serie de mejores prácticas introducían un conjunto de convenciones en el diseño de las definiciones de Azure Policy para que fueran facilmente gestionables. Una de mis obsesiones en proyectos software siempre ha sido que la información sea visible y accesible, pero además que se actualice de forma automática. Por eso adoro usar herramientas de gestión como Jira, donde puedes mostrar el grado de progreso de tareas, grupos de tareas (épicas) o versiones, sin más esfuero que el inicial de montar bien el proyecto. Las PPTs no se actualizan solas, supongo que por eso no me gustan tanto los informes en diapositivas.
